@@ -11,6 +11,7 @@ import Foundation
 class DashboardViewController: UIViewController {
     @IBOutlet weak var dashboardView: UIView!
     @IBOutlet weak var scoreHeader: UILabel!
+
     @IBOutlet weak var scoreLabel: UILabel!
     @IBOutlet var totalLabel: UILabel!
     @IBOutlet var titleLabel: UILabel!
